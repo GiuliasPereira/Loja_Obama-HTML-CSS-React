@@ -1,0 +1,28 @@
+.cabecalho{
+    width: 100%;
+    padding: 50px 8%;
+    background-color: #13c7ae;
+    flex-direction: row;
+}
+
+.cabecalho form{
+    width: 30%;
+}
+
+.cabecalho input[type="search"]{
+    width: 85%;
+    padding: 15px 10px 15px 10px;
+    border-radius: 15px 0 0 15px;
+    border: none;
+}
+
+.cabecalho button{
+    width: 15%;
+    float: right;
+    padding: 12px;
+    background-color: #0cae98;
+    color: white;
+    cursor: pointer;
+    border-radius: 0 15px 15px 0;
+    border: none;
+}

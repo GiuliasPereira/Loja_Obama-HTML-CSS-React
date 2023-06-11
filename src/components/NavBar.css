@@ -1,0 +1,48 @@
+.menu{
+    width: 100%;
+    float: left;
+    background-color: #111;
+    padding: 18px 8%;
+}
+
+.menu li{
+    float: left;
+}
+
+.menu li a{
+    color: #9d9d9d;
+    margin-right: 25px;
+    font-size: 19px;
+}
+
+.menu li a:hover{
+    color: white;
+}
+
+.social-icons{
+    float: right;
+}
+
+.btn{
+    width: 20px;
+    height: 20px;
+    color:#db4a39
+}
+
+.social-icons a{
+    color: #f70000;
+    float: left;
+    margin-left: 13px;
+}
+
+.btn-facebook:hover{
+    color: #3b5998;
+}
+
+.btn-twitter:hover{
+    color: #00acee;
+}
+
+.btn-google:hover{
+    color: #db4a39;
+}

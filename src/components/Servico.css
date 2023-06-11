@@ -1,0 +1,25 @@
+.container-servicos{
+    background: linear-gradient(#FFF, #13c7ae 70%, #fff,#fff 100%);
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding: 0 150px;
+  }
+  .container-servico{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    min-height: 80vh;
+  }
+  .container-servico .box{
+    /* position: relative; */
+    width: 320px;
+    background: #fff;
+    padding: 100px 40px 60px;
+    box-shadow: 0 15px 45px rgba(0,0,0,.1);
+  }
+.titulo{
+  color: #0eb582;
+  font-weight: bold;
+}
